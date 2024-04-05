@@ -1,10 +1,10 @@
-shAttach = {
+{
     "Data": {},
     "keyno": 0,
     "counter": 0,
     "userList": [],
-    "AllowCheck": False,
-    "LastCheck": time.time(),
+    "AllowCheck": false,
+    "LastCheck": 0,
     "ipinfo": "97c63f2c4ba10e",
     "pckIO": [
         "1c7446-8nej52-d18m60-a27837",
