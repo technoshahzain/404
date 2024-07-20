@@ -2,6 +2,7 @@
     "Data": {},
     "keyno": 0,
     "counter": 0,
+    "deepCheck": false,
     "userList": [],
     "AllowCheck": false,
     "LastCheck": 0,
