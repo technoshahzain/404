@@ -1,6 +1,7 @@
 {
     "Data": {},
     "keyno": 0,
+    "deepCheck": False,
     "counter": 0,
     "userList": [],
     "AllowCheck": false,
