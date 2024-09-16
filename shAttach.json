@@ -2,11 +2,15 @@
     "Data": {},
     "keyno": 0,
     "counter": 0,
-    "deepCheck": false,
     "userList": [],
+    "GetIpIntel": true,
+    "deepCheck": false,
     "AllowCheck": false,
     "LastCheck": 0,
-    "ipinfo": "97c63f2c4ba10e",
+    "ipinfo": {
+        "status": true,
+        "key": "13936e3d401e0d"
+    },
     "pckIO": [
         "1c7446-8nej52-d18m60-a27837",
         "6yv4z7-s375e0-532242-341970",
